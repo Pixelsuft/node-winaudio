@@ -1,0 +1,32 @@
+{
+  "name": "node-winaudio",
+  "version": "1.0.0",
+  "description": "Windows winmm API bindings",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixelsuft/node-winaudio.git"
+  },
+  "keywords": [
+    "winaudio",
+    "win32",
+    "winapi",
+    "api",
+    "mci",
+    "winmm",
+    "mmsystem"
+  ],
+  "author": "Pixelsuft",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/pixelsuft/node-winaudio/issues"
+  },
+  "homepage": "https://github.com/pixelsuft/node-winaudio#readme",
+  "dependencies": {
+    "ffi-napi": "^4.0.3",
+    "ref-napi": "^3.0.3"
+  }
+}

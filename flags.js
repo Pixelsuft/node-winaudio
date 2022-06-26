@@ -1,0 +1,14 @@
+exports.SND_ALIAS = 65536;
+exports.SND_ALIAS_ID = 1114112;
+exports.SND_ALIAS_START = 0;
+exports.SND_APPLICATION = 128;
+exports.SND_ASYNC = 1;
+exports.SND_FILENAME = 131072;
+exports.SND_LOOP = 8;
+exports.SND_MEMORY = 4;
+exports.SND_NODEFAULT = 2;
+exports.SND_NOSTOP = 16;
+exports.SND_NOWAIT = 8192;
+exports.SND_PURGE = 64;
+exports.SND_RESOURCE = 262148;
+exports.SND_SYNC = 0;
